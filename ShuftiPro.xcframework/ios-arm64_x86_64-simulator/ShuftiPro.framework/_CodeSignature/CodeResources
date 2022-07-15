@@ -341,10 +341,6 @@
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LM35g08kYa78MlxwdvDYZN5kSvM=
-			</data>
 			<key>hash2</key>
 			<data>
 			yrerYJr1xz15lb+pjbxIiuE/DxsdkM4qXXfB4atOWFI=
@@ -352,10 +348,6 @@
 		</dict>
 		<key>FailureVerified.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D11TJL7879kqz6/3CZ6ivoCFZeg=
-			</data>
 			<key>hash2</key>
 			<data>
 			AmWuquvJZzTElPtuYtOX+DNqJTBNA1FDZeTHb/O1We8=
@@ -363,10 +355,6 @@
 		</dict>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rgnuzTQBaKdZObQPai9zhEM7qU8=
-			</data>
 			<key>hash2</key>
 			<data>
 			xCuDkeYzg+DqBRbDmo5EXZ8cgaiaDl1zyQso4sY83aA=
@@ -374,10 +362,6 @@
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6DnkVC+m9+4PGWDDF1z2eu+gOgU=
-			</data>
 			<key>hash2</key>
 			<data>
 			14jPrGiEQ84hJepO3m68+zZb5t9VROawsRf3n2k7zQ8=
@@ -385,10 +369,6 @@
 		</dict>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6a7zl6C+s1laswoZpWdABjUwGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wh/7N26x+if96JmL+IhNwVFtfTlPWcHg7WK7KeG/V5o=
@@ -396,10 +376,6 @@
 		</dict>
 		<key>Main.storyboardc/5UI-YR-WEl-view-JAd-Y9-pWp.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6a7zl6C+s1laswoZpWdABjUwGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wh/7N26x+if96JmL+IhNwVFtfTlPWcHg7WK7KeG/V5o=
@@ -407,10 +383,6 @@
 		</dict>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZM+kxmi3J4abOKjSVyTtz82daJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			o717gusWUoeh3fH3D+ziKctyqKclP+Wh4Y7KohAtqdU=
@@ -418,10 +390,6 @@
 		</dict>
 		<key>Main.storyboardc/70L-LA-NvX-view-lPW-ou-9wt.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZM+kxmi3J4abOKjSVyTtz82daJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			o717gusWUoeh3fH3D+ziKctyqKclP+Wh4Y7KohAtqdU=
@@ -429,10 +397,6 @@
 		</dict>
 		<key>Main.storyboardc/CameraVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			829vEpOWiUF+cmNjQJTpDn2V1xQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			OXP/u1kInlejMxfCtSOXrWMd1PujFQiY7P7yjr9fcTE=
@@ -440,10 +404,6 @@
 		</dict>
 		<key>Main.storyboardc/CameraVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			829vEpOWiUF+cmNjQJTpDn2V1xQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			OXP/u1kInlejMxfCtSOXrWMd1PujFQiY7P7yjr9fcTE=
@@ -451,10 +411,6 @@
 		</dict>
 		<key>Main.storyboardc/CameraVc2.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DCvLAEXXFlMrR1XmvbiNqHe77jY=
-			</data>
 			<key>hash2</key>
 			<data>
 			7yzaJUEupWuCDTnCwH+LAYggAt27GNhIqPHk6+RfM2s=
@@ -462,10 +418,6 @@
 		</dict>
 		<key>Main.storyboardc/CameraVc2.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DCvLAEXXFlMrR1XmvbiNqHe77jY=
-			</data>
 			<key>hash2</key>
 			<data>
 			7yzaJUEupWuCDTnCwH+LAYggAt27GNhIqPHk6+RfM2s=
@@ -473,10 +425,6 @@
 		</dict>
 		<key>Main.storyboardc/ConfirmPhotoVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			na5Erwffdm158YDAJrsU2irdK2g=
-			</data>
 			<key>hash2</key>
 			<data>
 			SmAhcrLcDgcA8+YK6i3Bty19skg9ElfL8J3WfG0NkjY=
@@ -484,10 +432,6 @@
 		</dict>
 		<key>Main.storyboardc/ConfirmPhotoVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			na5Erwffdm158YDAJrsU2irdK2g=
-			</data>
 			<key>hash2</key>
 			<data>
 			SmAhcrLcDgcA8+YK6i3Bty19skg9ElfL8J3WfG0NkjY=
@@ -495,10 +439,6 @@
 		</dict>
 		<key>Main.storyboardc/CountrySelectionVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AHshCMeFUru7YGYewb7yngQc0p0=
-			</data>
 			<key>hash2</key>
 			<data>
 			iwKNfpVGLb4UqagGUBOmt3HKm1kOkXvSI4zJjXAs1i4=
@@ -506,10 +446,6 @@
 		</dict>
 		<key>Main.storyboardc/CountrySelectionVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AHshCMeFUru7YGYewb7yngQc0p0=
-			</data>
 			<key>hash2</key>
 			<data>
 			iwKNfpVGLb4UqagGUBOmt3HKm1kOkXvSI4zJjXAs1i4=
@@ -517,10 +453,6 @@
 		</dict>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e/MX1Po8uQbcf4jJ7xHi8NW+Wok=
-			</data>
 			<key>hash2</key>
 			<data>
 			b4pCmUSpIvUuFpFoFTxXxgevddFFiqkimWirzkyW2OI=
@@ -528,10 +460,6 @@
 		</dict>
 		<key>Main.storyboardc/ECi-gL-KFE-view-05v-iS-bwZ.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e/MX1Po8uQbcf4jJ7xHi8NW+Wok=
-			</data>
 			<key>hash2</key>
 			<data>
 			b4pCmUSpIvUuFpFoFTxXxgevddFFiqkimWirzkyW2OI=
@@ -539,10 +467,6 @@
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uNJQzvD/nXuMFThYVkNr2UjvqBI=
-			</data>
 			<key>hash2</key>
 			<data>
 			V+geRjjmD0uNVkYBESaIizimo/o5KnvhrdOiNyDUJao=
@@ -550,10 +474,6 @@
 		</dict>
 		<key>Main.storyboardc/InstructionsVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5A3dn7UvafPcbRlc3t/lIu+LxH8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y4dkuI74HqHe3dDjOW2VgzaCsY9lFvIISFa8qTBLEFk=
@@ -561,10 +481,6 @@
 		</dict>
 		<key>Main.storyboardc/InstructionsVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5A3dn7UvafPcbRlc3t/lIu+LxH8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y4dkuI74HqHe3dDjOW2VgzaCsY9lFvIISFa8qTBLEFk=
@@ -572,10 +488,6 @@
 		</dict>
 		<key>Main.storyboardc/Main.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JA1z8it/ppnqDJIwqbGtUUkYYxw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Obdyd0XblUyNfDhcUQTu7XpIj5wIaon0VYwcM+SFuWc=
@@ -583,10 +495,6 @@
 		</dict>
 		<key>Main.storyboardc/Main.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JA1z8it/ppnqDJIwqbGtUUkYYxw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Obdyd0XblUyNfDhcUQTu7XpIj5wIaon0VYwcM+SFuWc=
@@ -594,10 +502,6 @@
 		</dict>
 		<key>Main.storyboardc/NFCCameraVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QdoLud1GZFfoZy3UNW4mgA9SIyc=
-			</data>
 			<key>hash2</key>
 			<data>
 			cAssqACcMxQ+EFxdBbNSd5jDSuRZtWFY352PNcJ1P/E=
@@ -605,10 +509,6 @@
 		</dict>
 		<key>Main.storyboardc/NFCCameraVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QdoLud1GZFfoZy3UNW4mgA9SIyc=
-			</data>
 			<key>hash2</key>
 			<data>
 			cAssqACcMxQ+EFxdBbNSd5jDSuRZtWFY352PNcJ1P/E=
@@ -616,10 +516,6 @@
 		</dict>
 		<key>Main.storyboardc/NFCScannerVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5lgrpgOUSBxKPHb+O2oZRPn0K/A=
-			</data>
 			<key>hash2</key>
 			<data>
 			oLxNb2rSrezdmu7gk/Ea4iyAC5daipGHNedQbSa15XE=
@@ -627,10 +523,6 @@
 		</dict>
 		<key>Main.storyboardc/NFCScannerVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5lgrpgOUSBxKPHb+O2oZRPn0K/A=
-			</data>
 			<key>hash2</key>
 			<data>
 			oLxNb2rSrezdmu7gk/Ea4iyAC5daipGHNedQbSa15XE=
@@ -638,10 +530,6 @@
 		</dict>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dqcamutQqPrdfsC9HXf+mLBnh7E=
-			</data>
 			<key>hash2</key>
 			<data>
 			TJGAJHz0li42LYmu6vidv4fTQwA3UbTDL2XCqtQOVcU=
@@ -649,10 +537,6 @@
 		</dict>
 		<key>Main.storyboardc/NbE-9Z-Mta-view-ts4-3y-h1F.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dqcamutQqPrdfsC9HXf+mLBnh7E=
-			</data>
 			<key>hash2</key>
 			<data>
 			TJGAJHz0li42LYmu6vidv4fTQwA3UbTDL2XCqtQOVcU=
@@ -660,10 +544,6 @@
 		</dict>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rSZOvjTHoC4Io+5XOuCyyks6oIM=
-			</data>
 			<key>hash2</key>
 			<data>
 			HtFlKsAWtrW8pSIE6/00O65Wgm6vJXsN3VffciOeC+c=
@@ -671,10 +551,6 @@
 		</dict>
 		<key>Main.storyboardc/OH5-Tm-J93-view-QtR-KL-yQ7.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rSZOvjTHoC4Io+5XOuCyyks6oIM=
-			</data>
 			<key>hash2</key>
 			<data>
 			HtFlKsAWtrW8pSIE6/00O65Wgm6vJXsN3VffciOeC+c=
@@ -682,10 +558,6 @@
 		</dict>
 		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+lcDLkXDXO/7dWJNTjMgIWU3cMc=
-			</data>
 			<key>hash2</key>
 			<data>
 			qutF104OSI7XVqvcz6vj1f4mE/h8hGqpDHOVWOiJ3IE=
@@ -693,10 +565,6 @@
 		</dict>
 		<key>Main.storyboardc/PrivacyPolicyWebviewVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+lcDLkXDXO/7dWJNTjMgIWU3cMc=
-			</data>
 			<key>hash2</key>
 			<data>
 			qutF104OSI7XVqvcz6vj1f4mE/h8hGqpDHOVWOiJ3IE=
@@ -704,10 +572,6 @@
 		</dict>
 		<key>Main.storyboardc/ResultVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dc2B7aeys++vYJr/QHRorZbr5BA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jdg5oamr+JAs5OYKIjkItQw15zWgogt5ihtAt1ckGsw=
@@ -715,10 +579,6 @@
 		</dict>
 		<key>Main.storyboardc/ResultVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dc2B7aeys++vYJr/QHRorZbr5BA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jdg5oamr+JAs5OYKIjkItQw15zWgogt5ihtAt1ckGsw=
@@ -726,10 +586,6 @@
 		</dict>
 		<key>Main.storyboardc/SupportedTypesVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tElEQUiakizVc4bsx/DOucaY2pc=
-			</data>
 			<key>hash2</key>
 			<data>
 			lpwaYAPWLAPjYe81YU6AYh0aj4RbFJvwguETmwDrKwU=
@@ -737,10 +593,6 @@
 		</dict>
 		<key>Main.storyboardc/SupportedTypesVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tElEQUiakizVc4bsx/DOucaY2pc=
-			</data>
 			<key>hash2</key>
 			<data>
 			lpwaYAPWLAPjYe81YU6AYh0aj4RbFJvwguETmwDrKwU=
@@ -748,10 +600,6 @@
 		</dict>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bE7I38tPmLCUU9NzacRbWAvoNBI=
-			</data>
 			<key>hash2</key>
 			<data>
 			mu4f3AxJx9qoppNx+Advbq+Tb+UAFKxYDSShxEJFVrc=
@@ -759,10 +607,6 @@
 		</dict>
 		<key>Main.storyboardc/Twq-ov-1aj-view-yhr-MJ-3CN.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bE7I38tPmLCUU9NzacRbWAvoNBI=
-			</data>
 			<key>hash2</key>
 			<data>
 			mu4f3AxJx9qoppNx+Advbq+Tb+UAFKxYDSShxEJFVrc=
@@ -770,10 +614,6 @@
 		</dict>
 		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oHMUq1Y8DecWFqwbRIo7KAXLPZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			tS0vuYEtnSeBL5thnMA1o+OlxAnIsQpafnMP0NFDYiM=
@@ -781,10 +621,6 @@
 		</dict>
 		<key>Main.storyboardc/UploadOrTakePhotoVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oHMUq1Y8DecWFqwbRIo7KAXLPZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			tS0vuYEtnSeBL5thnMA1o+OlxAnIsQpafnMP0NFDYiM=
@@ -792,10 +628,6 @@
 		</dict>
 		<key>Main.storyboardc/UploadVideoVc.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UcVkYG+VtNtFhuQVcoM0GHyTxBo=
-			</data>
 			<key>hash2</key>
 			<data>
 			oeDHVrQW6pMTbs2yOp5uM60O9VqclqBlsrCF+tV0OVw=
@@ -803,10 +635,6 @@
 		</dict>
 		<key>Main.storyboardc/UploadVideoVc.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UcVkYG+VtNtFhuQVcoM0GHyTxBo=
-			</data>
 			<key>hash2</key>
 			<data>
 			oeDHVrQW6pMTbs2yOp5uM60O9VqclqBlsrCF+tV0OVw=
@@ -814,10 +642,6 @@
 		</dict>
 		<key>Main.storyboardc/WebViewController.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4TdDkXMbbuJON1Rm+M0vVKW3rQ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			DgkWWr1NQXDnYWmdtJifQRZ5wJaqiuxx0wEwpinHZF4=
@@ -825,10 +649,6 @@
 		</dict>
 		<key>Main.storyboardc/WebViewController.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4TdDkXMbbuJON1Rm+M0vVKW3rQ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			DgkWWr1NQXDnYWmdtJifQRZ5wJaqiuxx0wEwpinHZF4=
@@ -836,10 +656,6 @@
 		</dict>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QRuyKsPI6HTwQ3wIgG4BYAwX0rw=
-			</data>
 			<key>hash2</key>
 			<data>
 			7LhnmB3A2AeoJeyhHpNzNRXum2hmRyIJZbxOdgL3Yck=
@@ -847,10 +663,6 @@
 		</dict>
 		<key>Main.storyboardc/dBw-6Z-1MJ-view-1S3-8F-A8c.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P4huPwrWE2sjHmQGSkC0E4MpSH8=
-			</data>
 			<key>hash2</key>
 			<data>
 			7G1LYajjyCelyO+lwqHjQmpM2vAug3zRJjSUHO/MpdY=
@@ -858,10 +670,6 @@
 		</dict>
 		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WrsUHX5p8TNglix1L5D4noC966M=
-			</data>
 			<key>hash2</key>
 			<data>
 			27rAE03HISm6C/NBudnoiQB3dTosdBeZlqCag8o+NRE=
@@ -869,10 +677,6 @@
 		</dict>
 		<key>Main.storyboardc/dtp-UB-ttl-view-5KF-sf-Nt4.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WrsUHX5p8TNglix1L5D4noC966M=
-			</data>
 			<key>hash2</key>
 			<data>
 			27rAE03HISm6C/NBudnoiQB3dTosdBeZlqCag8o+NRE=
@@ -880,10 +684,6 @@
 		</dict>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sGNn84siDUKbTwOIo7XHQlrc00Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6G397SsCPQInx10EJme+rVsBf0ZOM0iLKXGcwOLICI=
@@ -891,10 +691,6 @@
 		</dict>
 		<key>Main.storyboardc/f1K-b9-ggq-view-8nk-UK-DIB.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sGNn84siDUKbTwOIo7XHQlrc00Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6G397SsCPQInx10EJme+rVsBf0ZOM0iLKXGcwOLICI=
@@ -902,10 +698,6 @@
 		</dict>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GmRUvXkcf85jApJMnhFKd/HluNw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OFWanr0iGz39q1/iSw4y8ERq02/9XGNTRm53tQvpQSA=
@@ -913,10 +705,6 @@
 		</dict>
 		<key>Main.storyboardc/hlE-y1-zom-view-hkm-EU-x1o.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GmRUvXkcf85jApJMnhFKd/HluNw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OFWanr0iGz39q1/iSw4y8ERq02/9XGNTRm53tQvpQSA=
@@ -924,10 +712,6 @@
 		</dict>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TU91ZBy+aXrMlvXaWETDQhui+EY=
-			</data>
 			<key>hash2</key>
 			<data>
 			oWzombdHi75uj8A+LSmND57/crrJHUzqM4bGOdG9Vmw=
@@ -935,10 +719,6 @@
 		</dict>
 		<key>Main.storyboardc/nxF-J0-eRM-view-ROc-71-yCE.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TU91ZBy+aXrMlvXaWETDQhui+EY=
-			</data>
 			<key>hash2</key>
 			<data>
 			oWzombdHi75uj8A+LSmND57/crrJHUzqM4bGOdG9Vmw=
@@ -946,10 +726,6 @@
 		</dict>
 		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y4c3+8PsSx2LcOl44hqHzY6YFmw=
-			</data>
 			<key>hash2</key>
 			<data>
 			GfY55b7ap5bHz/NHUSoroMo2V/nYuBT+1ZRVEpJU4I0=
@@ -957,10 +733,6 @@
 		</dict>
 		<key>Main.storyboardc/rkk-1o-cmj-view-kMo-CG-vtY.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y4c3+8PsSx2LcOl44hqHzY6YFmw=
-			</data>
 			<key>hash2</key>
 			<data>
 			GfY55b7ap5bHz/NHUSoroMo2V/nYuBT+1ZRVEpJU4I0=
@@ -968,10 +740,6 @@
 		</dict>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/objects-14.0+.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			63AskftbbhK4f32W7VP4WQ+V/rg=
-			</data>
 			<key>hash2</key>
 			<data>
 			VzkBmpjYe/q0eZvQlVuGbp2SdlDJYpafXSw+1arv8Nk=
@@ -979,10 +747,6 @@
 		</dict>
 		<key>Main.storyboardc/s6S-k6-nlq-view-B1D-ov-JVX.nib/runtime.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			63AskftbbhK4f32W7VP4WQ+V/rg=
-			</data>
 			<key>hash2</key>
 			<data>
 			VzkBmpjYe/q0eZvQlVuGbp2SdlDJYpafXSw+1arv8Nk=
@@ -990,10 +754,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3mQU7UIM25pphVXTEhX1VTqCJFY=
-			</data>
 			<key>hash2</key>
 			<data>
 			qsY8QR0PW+CKA1T/xm6ztJeCNdT+iIZE4QNfVvzuh/s=
@@ -1001,10 +761,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZpN+phYgHphGEXfd+43R10l18co=
-			</data>
 			<key>hash2</key>
 			<data>
 			0qaZmSDKX8/B1IU/90s8mVMN2CaJy4zKq51HKlkarAg=
@@ -1012,10 +768,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ACOyPlUJp25V7720qNxvs4Nr1ws=
-			</data>
 			<key>hash2</key>
 			<data>
 			iJ6tURlMjtZ+5H9F2EsoiM8qVUcVGtCSSW5yMYrbg1A=
@@ -1023,10 +775,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n5RpakFIvGK9K9lENln9aA9i0pE=
-			</data>
 			<key>hash2</key>
 			<data>
 			JJTnIUZTL4/eFaFEv7aJlrdCWtegkmQCeG2iHeYY+gQ=
@@ -1034,10 +782,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jvk1LoJre2cpaWGAhR4Ius8FWvs=
-			</data>
 			<key>hash2</key>
 			<data>
 			AajJBsW3X2dFyRzY+4yZIWXgtceucQhpRb4s6KyzbWw=
@@ -1045,10 +789,6 @@
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zt++WSm5Y9/eD7eZE6I/bPupoXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			7GgVpSBsQa3hyr8PTxm09ttQ1PNgboFiu9+IuUz0ryI=
@@ -1056,10 +796,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ojsQw/9Sq32uegLSgsA+b3Uj/ho=
-			</data>
 			<key>hash2</key>
 			<data>
 			zLOssf6fno+WRKQzA9TEmlg4a3WCcqCFiXxdznOGYeA=
@@ -1067,10 +803,6 @@
 		</dict>
 		<key>OpenSans-Bold.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wWkegWiyWWr4oAFiusYNvmBenjY=
-			</data>
 			<key>hash2</key>
 			<data>
 			WJSjZJshPPWy1nO256hxgV/R0SD6aKRjWS8n2xTq4yM=
@@ -1078,10 +810,6 @@
 		</dict>
 		<key>OpenSans-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NWTtC1Nj31zyd8FuDGvtxaaCIX8=
-			</data>
 			<key>hash2</key>
 			<data>
 			5k5QiyqiiA+QfkcMRVCYDsTAaU0QOkPzYVCsP5MYm+4=
@@ -1089,10 +817,6 @@
 		</dict>
 		<key>OpenSans-Semibold.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8e56nG0T7i1kKoBsCec3J15hN5I=
-			</data>
 			<key>hash2</key>
 			<data>
 			qjsO9T2xLj1FCUAwysDmnThORMxZeGQ91DkAQcrVRuI=
@@ -1100,10 +824,6 @@
 		</dict>
 		<key>SuccessVerified.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6KhWPVwVBFDm2/TJYy+7brES4Xs=
-			</data>
 			<key>hash2</key>
 			<data>
 			m88uhx+bzxoo4XU2gzIeS8vHxhusIMN88Z2Nj36rc2A=
@@ -1111,10 +831,6 @@
 		</dict>
 		<key>addressVerification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AD7wxbH/Nst27mromNFXyaKWsmM=
-			</data>
 			<key>hash2</key>
 			<data>
 			jMUFbvAhqV2cb3FnFAvsTo/aEb2F6Qr8sbKHoNVgiLQ=
@@ -1122,10 +838,6 @@
 		</dict>
 		<key>consentVerification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hZs3ZOt7eifNg476wh74f0toUXk=
-			</data>
 			<key>hash2</key>
 			<data>
 			8YFZtHhaaf0iNaOyc5qDiDz5FW5+xpvE4Koz7TDzvZI=
@@ -1133,10 +845,6 @@
 		</dict>
 		<key>countries.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1NdOL4/FCZlxNItFyWW4icdMtCs=
-			</data>
 			<key>hash2</key>
 			<data>
 			FnYNz0oZ7JN3+7SEUHRv+kA/AC1V1Q5+rAfFK94uzCI=
@@ -1144,10 +852,6 @@
 		</dict>
 		<key>documentVerification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A7oNprH/6Xl5Rw7otiOwME9Q98M=
-			</data>
 			<key>hash2</key>
 			<data>
 			p8nzBtMKlxbYVe+gNJJh7YRKdR/8kvcPDQVVybJlZ2E=
@@ -1155,10 +859,6 @@
 		</dict>
 		<key>faceVerification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3B+KTZ27ddbrxlHk3+A3NdbbptM=
-			</data>
 			<key>hash2</key>
 			<data>
 			mUNWsYdKt3o9c3U85r5cCv+UspbVj1lHgqmP8jU0Kec=
@@ -1166,10 +866,6 @@
 		</dict>
 		<key>imageUploading.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UrjdL+mfG9L4NMwsHXKvqpWo4jo=
-			</data>
 			<key>hash2</key>
 			<data>
 			4l4omR5/ahdv283Ie9rLAQUoX5wSIfbtEfLsscD/IM0=
@@ -1177,10 +873,6 @@
 		</dict>
 		<key>like.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hMUkCPC3j5tzEPjjbQHmE1NjIkw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OopVWodlzdiDqAvLzLtxvcSPZBDLyEzEGsSe5KnQQI0=
@@ -1188,10 +880,6 @@
 		</dict>
 		<key>loaderImage.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7pRYBJL3WWDPCAlOn4q0R93+lfo=
-			</data>
 			<key>hash2</key>
 			<data>
 			vB2eyO1h/EUR0KQwliLkKhQVtUjBYplUZD9yhbE83Jc=
@@ -1199,10 +887,6 @@
 		</dict>
 		<key>nfc_scanner.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ilxtXBD5mnf4ngLTIMUTHiEIVJU=
-			</data>
 			<key>hash2</key>
 			<data>
 			o1LvLXmH/oBogmpv0NPde3dXYPo6M72OtKDKbDQd5cU=
@@ -1210,10 +894,6 @@
 		</dict>
 		<key>timeout.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Hn5dSdeHF3O8sRsFeeExq5/Wul4=
-			</data>
 			<key>hash2</key>
 			<data>
 			5fmirTb1yiNnS48Ja6SRjsTqdrfoDsVHJBPZd4HXHKk=
@@ -1221,10 +901,6 @@
 		</dict>
 		<key>warnings.html</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WXyASo3BInyD9QaVAQAsH2PB3LU=
-			</data>
 			<key>hash2</key>
 			<data>
 			MYjzx2W3dpgxEVEYtTJAZnG9UQih+5xNM1TK4eW8zlc=
@@ -1232,10 +908,6 @@
 		</dict>
 		<key>warnings.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DF9FTtdQRYmxkGBdGn2ZMcRTa9o=
-			</data>
 			<key>hash2</key>
 			<data>
 			HYqx8gCNwEzDd1UmsyIRFz0Svh04uHmfwR/o7vwpc0U=
