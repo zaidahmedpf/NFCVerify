@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'NFCVerify'
-  s.version          = '1.0.0'
-  s.summary          = 'A short description of NFCVerify.'
+  s.name             = 'ShuftiPro'
+  s.version          = '1.0.1'
+  s.summary          = 'A short description of ShuftiPro.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
   s.platform     = :ios, "13.0"
   s.author             = { "NFCVerify" => "zaid.ahmed@pf.com.pk" }
 
-  s.ios.vendored_frameworks = 'NFCVerify.xcframework'
+  s.ios.vendored_frameworks = 'ShuftiPro.xcframework'
   s.dependency 'NFCPassportReader', '~> 1.1.7'
   s.swift_version = "5"
 
