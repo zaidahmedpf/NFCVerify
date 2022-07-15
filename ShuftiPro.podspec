@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ShuftiPro'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A short description of ShuftiPro.'
 
 # This description is used to generate tags and improve search results.
@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.ios.vendored_frameworks = 'ShuftiPro.xcframework'
   s.dependency 'NFCPassportReader', '~> 1.1.7'
+  s.dependency 'GoogleMLKit/TextRecognition'
   s.swift_version = "5"
 
   #s.source_files = 'NFCVerify/Classes/**/*'
