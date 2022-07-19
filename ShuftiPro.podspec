@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
   s.platform     = :ios, "13.0"
   s.author             = { "NFCVerify" => "zaid.ahmed@pf.com.pk" }
 
-  s.ios.vendored_frameworks = 'ShuftiPro.xcframework'
+  s.ios.vendored_frameworks = 'ShuftiPro.framework'
   s.dependency 'NFCPassportReader', '~> 1.1.7'
   s.dependency 'GoogleMLKit/TextRecognition'
   s.swift_version = "5"
