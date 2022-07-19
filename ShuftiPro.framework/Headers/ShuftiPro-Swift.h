@@ -517,38 +517,6 @@ SWIFT_CLASS("_TtC9ShuftiPro7NFCCell")
 @end
 
 
-SWIFT_CLASS("_TtC9ShuftiPro12NFCScannerVc")
-@interface NFCScannerVc : UIViewController
-@property (nonatomic, weak) IBOutlet WKWebView * _Null_unspecified scanWebView;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified passportImg;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified passportView;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified scannedImage;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified topTitle;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified scanLbl;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified scanBtn;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified MrzDataLbl;
-@property (nonatomic, weak) IBOutlet UITableView * _Null_unspecified passportDetailTable;
-- (void)viewDidLoad;
-- (void)viewWillAppear:(BOOL)animated;
-@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
-- (void)didReceiveMemoryWarning;
-- (IBAction)scanBtnPressed:(id _Nonnull)sender;
-- (void)handleGestureWithGesture:(UISwipeGestureRecognizer * _Nonnull)gesture;
-- (IBAction)backBtn:(id _Nonnull)sender;
-- (IBAction)QuitBtn:(id _Nonnull)sender;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-@interface NFCScannerVc (SWIFT_EXTENSION(ShuftiPro)) <UITableViewDataSource, UITableViewDelegate>
-- (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
-- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
 @class UIActivityIndicatorView;
 @class WKNavigation;
 

@@ -10,7 +10,6 @@ import CoreNFC
 import CoreVideo
 import Foundation
 import MessageUI
-import NFCPassportReader
 @_exported import ShuftiPro
 import Swift
 import SystemConfiguration
