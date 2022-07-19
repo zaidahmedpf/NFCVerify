@@ -9,7 +9,6 @@ import CoreMotion
 import CoreNFC
 import CoreVideo
 import Foundation
-import MLKit
 import MessageUI
 import NFCPassportReader
 @_exported import ShuftiPro
@@ -20,10 +19,6 @@ import VideoToolbox
 import Vision
 import WebKit
 import _Concurrency
-@_hasMissingDesignatedInitializers public class UIUtilities {
-  public static func imageOrientation(fromDevicePosition devicePosition: AVFoundation.AVCaptureDevice.Position = .back) -> UIKit.UIImage.Orientation
-  @objc deinit
-}
 @_hasMissingDesignatedInitializers public class Reachability {
   @objc deinit
 }

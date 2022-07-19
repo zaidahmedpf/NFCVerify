@@ -505,37 +505,6 @@ SWIFT_CLASS("_TtC9ShuftiPro18LocalizationSystem")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@protocol UIViewControllerTransitionCoordinator;
-
-SWIFT_CLASS("_TtC9ShuftiPro11NFCCameraVc")
-@interface NFCCameraVc : UIViewController
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified errorView;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified previewView;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified titleOnCamera;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified captureGuideLbl;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified captureGuideTopLbl;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified innerCameraView;
-- (void)viewDidLoad;
-- (void)viewWillAppear:(BOOL)animated;
-- (void)viewWillDisappear:(BOOL)animated;
-- (void)viewDidLayoutSubviews;
-- (void)viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id <UIViewControllerTransitionCoordinator> _Nonnull)coordinator;
-- (void)didReceiveMemoryWarning;
-- (IBAction)backBtnPressedOnCamera:(id _Nonnull)sender;
-- (void)handleGestureWithGesture:(UISwipeGestureRecognizer * _Nonnull)gesture;
-- (void)switchCamera;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-@class AVCaptureOutput;
-
-@interface NFCCameraVc (SWIFT_EXTENSION(ShuftiPro)) <AVCaptureVideoDataOutputSampleBufferDelegate>
-- (void)captureOutput:(AVCaptureOutput * _Nonnull)output didOutputSampleBuffer:(CMSampleBufferRef _Nonnull)sampleBuffer fromConnection:(AVCaptureConnection * _Nonnull)connection;
-@end
-
-
 
 SWIFT_CLASS("_TtC9ShuftiPro7NFCCell")
 @interface NFCCell : UITableViewCell
