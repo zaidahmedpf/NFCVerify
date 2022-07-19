@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ShuftiProNFC'
-  s.version          = '1.9.0'
+  s.name             = 'ShuftiPro/NFC'
+  s.version          = '2.0.0'
   s.summary          = 'A short description of ShuftiPro.'
 
 # This description is used to generate tags and improve search results.
